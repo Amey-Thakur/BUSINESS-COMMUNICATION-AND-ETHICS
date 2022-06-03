@@ -1,5 +1,5 @@
 # BUSINESS-COMMUNICATION-AND-ETHICS
- CSL505: BCE [SEMESTER V]
+ 👍🏻 CSL505: BCE [SEMESTER V]
 
 ---
  
@@ -21,17 +21,18 @@
 
 
 ## GOOGLE MEET ([dee-qebi-amh](https://meet.google.com/dee-qebi-amh))
- >**Participants**
+ 
+ - **Participants**
 
- - [x] **B-31 Mayuresh Phansikar**
+   - [x] **B-31 Mayuresh Phansikar**
  
- - [x] **B-34 Archit Konde**
+   - [x] **B-34 Archit Konde**
  
- - [x] **B-50 [Amey Thakur](https://github.com/Amey-Thakur)**
+   - [x] **B-50 [Amey Thakur](https://github.com/Amey-Thakur)**
  
- - [x] **B-58 [Mega Satish](https://github.com/msatmod)**
+   - [x] **B-58 [Mega Satish](https://github.com/msatmod)**
  
- - [x] **B-59 Saakshi Deokar**
+   - [x] **B-59 Saakshi Deokar**
  
  
  ### [Group Discussion](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_GD_dee-qebi-amh.mp4)
@@ -55,3 +56,9 @@
 ## Quizzes
  
  - BCE QUIZ - 1 [Body Language and Presentation Skills-IAT-October 2020](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf)
+
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
