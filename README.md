@@ -83,7 +83,23 @@ Practical activities and role-play simulations conducted for skills enhancement:
 | 1 | **Internet Marketing** | Comprehensive Blackbook Report | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
 | 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
 | 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
-| 4 | **Statement of Purpose** | Professional SOP writing | - | [📄 View](Activities/Amey_B-50_SOP.pdf) |
+| 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [📄 View](Activities/Amey_B-50_SOP.pdf) |
+
+<details>
+<summary><b>ℹ️ SOP Details: Business Communication & Ethics</b></summary>
+
+**Course**: T.E. (Computer Engineering) · **Semester**: V · **Year**: 2020-2021  
+**Subject**: Business Communication & Ethics (CSL505)
+
+**Student Details:**
+- **Name**: Amey Thakur
+- **Roll No.**: 50
+- **Class**: TE COMPS B
+
+**Topic**: STATEMENT OF PURPOSE  
+**Submission Date**: December 15, 2020
+
+</details>
 
 <details>
 <summary><b>ℹ️ Meeting Details: Monthly Magazine</b></summary>
