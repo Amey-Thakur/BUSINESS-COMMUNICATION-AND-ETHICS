@@ -1,65 +1,224 @@
-# BUSINESS-COMMUNICATION-AND-ETHICS
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 CSL505: BCE [SEMESTER V]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Business Communication and Ethics
+
+  ### CSL505 · Semester V · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Business Communication and Ethics (BCE), covering interpersonal skills, professional ethics, corporate communication, and soft skills development.**
+
+  ---
+
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [🗣️ Activities](#activities) &nbsp;·&nbsp; [📹 Google Meet](#google-meet) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **BCE - [Reference Books](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/tree/main/Reference%20Books)**
+
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Business Communication and Ethics (CSL505) is a core subject in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. This course focuses on developing essential professional skills, including effective communication, ethical decision-making, and corporate etiquette required for the modern workplace.
+
+### Course Topics
+
+The curriculum encompasses several key domains in Business Communication:
+
+- **Communication Theory**: Verbal and non-verbal communication, barriers to communication.
+- **Business Writing**: Reports, proposals, emails, and statement of purpose (SOP).
+- **Interpersonal Skills**: Group discussions, interviews, and presentation skills.
+- **Professional Ethics**: Corporate social responsibility, code of conduct, and ethical dilemmas.
+- **Technical Writing**: Documentation standards and project report writing.
+- **Team Dynamics**: Leadership, conflict resolution, and collaborative working.
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, assignments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, soft skills and ethical grounding are as critical as technical prowess. This repository serves as my intellectual reference point: a resource I can return to for reviewing communication strategies and ethical guidelines.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental soft skills.
+- **Academic Documentation**: To authentically document my learning journey through BCE.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
-## Activities
- 
- - [INTERNET MARKETING BLACKBOOK](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf)
- 
- - [INTERNET MARKETING PPT](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf)
- 
- - [Meeting](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf)
- 
- - [Statement of Purpose (SOP)](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Activities/Amey_B-50_SOP.pdf)
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
 
+### Reference Books
 
-## GOOGLE MEET ([dee-qebi-amh](https://meet.google.com/dee-qebi-amh))
- 
- - **Participants**
+This collection includes **comprehensive reference materials** covering all major topics:
 
-   - [x] **B-31 Mayuresh Phansikar**
- 
-   - [x] **B-34 Archit Konde**
- 
-   - [x] **B-50 [Amey Thakur](https://github.com/Amey-Thakur)**
- 
-   - [x] **B-58 [Mega Satish](https://github.com/msatmod)**
- 
-   - [x] **B-59 Saakshi Deokar**
- 
- 
- ### [Group Discussion](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_GD_dee-qebi-amh.mp4)
- 
- ### [Interview](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_INTERVIEW_dee-qebi-amh.mp4)
- 
- ### [Meeting](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_MEETING_dee-qebi-amh.mp4)
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [Semester 5 Books](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
 
+---
 
-## Assignments
- 
- - BCE [Assignment - 1](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Assignments/Amey_B-50_BCE_Assignment-1.pdf)
- 
- - BCE [Assignment - 2](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Assignments/Amey_B-50_BCE_Assignment-2.pdf)
- 
- - BCE [Assignment - 3](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Assignments/Amey_B-50_BCE_Assignment-3.pdf)
- 
- - BCE [Assignment - 4](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Assignments/Amey_B-50_BCE_Assignment-4.pdf)
+### Activities
 
+Practical activities and role-play simulations conducted for skills enhancement:
 
+| # | Activity | Description | Resource |
+|:-:|:---|:---|:-:|
+| 1 | **Internet Marketing** | Comprehensive Blackbook Report | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
+| 2 | **Internet Marketing PPT** | Presentation Slides for the project | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
+| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
+| 4 | **Statement of Purpose** | Professional SOP writing | [📄 View](Activities/Amey_B-50_SOP.pdf) |
+
+---
+
+### Google Meet
+
+**Virtual Sessions and Collaborative Activities** hosted via Google Meet ([dee-qebi-amh](https://meet.google.com/dee-qebi-amh)).
+
+**Participants:**
+- [x] **B-31 Mayuresh Phansikar**
+- [x] **B-34 Archit Konde**
+- [x] **B-50 [Amey Thakur](https://github.com/Amey-Thakur)**
+- [x] **B-58 [Mega Satish](https://github.com/msatmod)**
+- [x] **B-59 Saakshi Deokar**
+
+| # | Session Type | Description | Recording |
+|:-:|:---|:---|:-:|
+| 1 | **Group Discussion** | Collaborative discussion on assigned topics | [📹 Watch](Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_GD_dee-qebi-amh.mp4) |
+| 2 | **Interview** | Mock technical and HR interview session | [📹 Watch](Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_INTERVIEW_dee-qebi-amh.mp4) |
+| 3 | **Meeting** | Formal business meeting simulation | [📹 Watch](Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_MEETING_dee-qebi-amh.mp4) |
+
+---
+
+### Assignments
+
+Academic assignments for comprehensive learning and practice:
+
+| # | Assignment | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | **Assignment 1** | Communication Barriers and Ethics | [📄 View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Business Correspondence | [📄 View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Report Writing and Proposals | [📄 View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Career Skills and Technical Writing | [📄 View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
 ## Quizzes
- 
- - BCE QUIZ - 1 [Body Language and Presentation Skills-IAT-October 2020](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf)
+
+BCE-specific quizzes conducted during the course:
+
+| Quiz | Topics | Resource |
+|:---|:---|:-:|
+| Quiz 1 | Body Language and Presentation Skills (IAT Oct 2020) | [📄 View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> 📋 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for BCE.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding business communication, ethics, and preparing for assignments and examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Business Communication and Ethics.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her collaboration and support during the group activities and academic journey. Best wishes for her future endeavors.
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Business Communication and Ethics.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#business-communication-and-ethics)**
+
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[🗣️ Activities](#activities)** &nbsp;·&nbsp; **[📹 Google Meet](#google-meet)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
