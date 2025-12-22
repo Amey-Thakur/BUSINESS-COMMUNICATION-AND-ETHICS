@@ -197,12 +197,12 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Link |
-|:-:|:---|:---|:-:|
-| 1 | **Assignment 1** | Communication Barriers and Ethics | [📄 View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Business Correspondence | [📄 View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Report Writing and Proposals | [📄 View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Career Skills and Technical Writing | [📄 View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
+| # | Assignment | Description | Date | Link |
+|:-:|:---|:---|:---:|:-:|
+| 1 | **Assignment 1** | Communication Barriers and Ethics | September 10, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Business Correspondence | September 10, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Report Writing and Proposals | September 20, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Career Skills and Technical Writing | December 13, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
 
 ---
 
