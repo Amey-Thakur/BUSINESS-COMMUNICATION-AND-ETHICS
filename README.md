@@ -81,6 +81,9 @@ Practical activities and role-play simulations conducted for skills enhancement:
 | # | Activity | Description | Date | Resource |
 |:-:|:---|:---|:---:|:-:|
 | 1 | **Internet Marketing** | Comprehensive Blackbook Report | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
+| 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
+| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
+| 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [📄 View](Activities/Amey_B-50_SOP.pdf) |
 
 <details>
 <summary><b>ℹ️ Blackbook Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf"><b>View Document</b></a></summary>
@@ -113,9 +116,28 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 </details>
 
-| 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
-| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
-| 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [📄 View](Activities/Amey_B-50_SOP.pdf) |
+<details>
+<summary><b>ℹ️ Meeting Details: Monthly Magazine</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf"><b>View Document</b></a></summary>
+
+**Topic**: Meeting Regarding Monthly Magazine  
+**Date**: December 15, 2020 · **Time**: 10:00 AM - 11:00 AM  
+**Objective**: Meeting will be focused on the previous month's activities.
+
+**Agenda**:
+1. Contents of The Magazine.
+2. Editorial Decisions Regarding The Same.
+3. Students' Achievements and Progress.
+4. Creative Ideas for Monthly Magazine.
+5. Interview of Faculty.
+
+**Members**:
+- **Mr. Mayuresh Phansikar** (TE-Comps B-31 · TU3F1819102)
+- **Mr. Archit Konde** (TE-Comps B-34 · TU3F1819107)
+- **Mr. Amey Thakur** (TE-Comps B-50 · TU3F1819127)
+- **Ms. Mega Satish** (TE-Comps B-58 · TU3F1819139)
+- **Ms. Saakshi Deokar** (TE-Comps B-59 · TU3F1819140)
+
+</details>
 
 <details>
 <summary><b>ℹ️ SOP Details: Business Communication & Ethics</b> - <a href="Activities/Amey_B-50_SOP.pdf"><b>View Document</b></a></summary>
