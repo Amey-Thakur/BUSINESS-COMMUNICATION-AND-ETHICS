@@ -86,7 +86,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 | 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [📄 View](Activities/Amey_B-50_SOP.pdf) |
 
 <details>
-<summary><b>ℹ️ SOP Details: Business Communication & Ethics</b></summary>
+<summary><b>ℹ️ SOP Details: Business Communication & Ethics</b> - <a href="Activities/Amey_B-50_SOP.pdf"><b>View Document</b></a></summary>
 
 **Course**: T.E. (Computer Engineering) · **Semester**: V · **Year**: 2020-2021  
 **Subject**: Business Communication & Ethics (CSL505)
@@ -102,7 +102,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 </details>
 
 <details>
-<summary><b>ℹ️ Meeting Details: Monthly Magazine</b></summary>
+<summary><b>ℹ️ Meeting Details: Monthly Magazine</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf"><b>View Document</b></a></summary>
 
 **Topic**: Meeting Regarding Monthly Magazine  
 **Date**: December 15, 2020 · **Time**: 10:00 AM - 11:00 AM  
