@@ -98,7 +98,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 <div align="center">
 
-| Name | UID | Signature |
+| Name | Student ID | Signature |
 |:---|:---:|:---:|
 | **Mayuresh Phansikar** | TU3F1819102 | <img src="Activities/Sign_Mayuresh.png" height="50"/> |
 | **Archit Konde** | TU3F1819107 | <img src="Activities/Sign_Archit.png" height="50"/> |
