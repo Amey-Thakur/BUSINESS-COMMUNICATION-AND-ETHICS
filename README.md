@@ -153,23 +153,6 @@ Practical activities and role-play simulations conducted for skills enhancement:
 **Topic**: STATEMENT OF PURPOSE  
 **Submission Date**: December 15, 2020
 
-</details>  
-**Objective**: Meeting will be focused on the previous month's activities.
-
-**Agenda**:
-1. Contents of The Magazine.
-2. Editorial Decisions Regarding The Same.
-3. Students' Achievements and Progress.
-4. Creative Ideas for Monthly Magazine.
-5. Interview of Faculty.
-
-**Members**:
-- **Mr. Mayuresh Phansikar** (TE-Comps B-31 · TU3F1819102)
-- **Mr. Archit Konde** (TE-Comps B-34 · TU3F1819107)
-- **Mr. Amey Thakur** (TE-Comps B-50 · TU3F1819127)
-- **Ms. Mega Satish** (TE-Comps B-58 · TU3F1819139)
-- **Ms. Saakshi Deokar** (TE-Comps B-59 · TU3F1819140)
-
 </details>
 
 ---
