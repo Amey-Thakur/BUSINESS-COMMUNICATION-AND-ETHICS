@@ -100,11 +100,11 @@ Practical activities and role-play simulations conducted for skills enhancement:
 5. Interview of Faculty.
 
 **Members**:
-- Mr. Archit Konde
-- Mr. Mayuresh Phansikar
-- Mr. Amey Thakur
-- Ms. Mega Satish
-- Ms. Saakshi Deokar
+- **Mr. Mayuresh Phansikar** (TE-Comps B-31 · TU3F1819102)
+- **Mr. Archit Konde** (TE-Comps B-34 · TU3F1819107)
+- **Mr. Amey Thakur** (TE-Comps B-50 · TU3F1819127)
+- **Ms. Mega Satish** (TE-Comps B-58 · TU3F1819139)
+- **Ms. Saakshi Deokar** (TE-Comps B-59 · TU3F1819140)
 
 </details>
 
