@@ -213,9 +213,9 @@ Academic assignments for comprehensive learning and practice:
 
 BCE-specific quizzes conducted during the course:
 
-| Quiz | Topics | Resource |
-|:---|:---|:-:|
-| Quiz 1 | Body Language and Presentation Skills (IAT Oct 2020) | [📄 View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
+| # | Quiz | Topics | Date | Marks | Resource |
+|:-:|:---|:---|:---:|:---:|:-:|
+| 1 | **Quiz 1** | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 | [📄 View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
 
 ---
 
