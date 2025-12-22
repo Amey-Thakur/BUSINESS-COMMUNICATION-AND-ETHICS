@@ -36,11 +36,11 @@
    - [x] **B-59 Saakshi Deokar**
  
  
- ### [Group Discussion](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_GD_dee-qebi-amh.mp4)
+ ### [Group Discussion](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_GD_dee-qebi-amh.mp4)
  
- ### [Interview](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_INTERVIEW_dee-qebi-amh.mp4)
+ ### [Interview](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_INTERVIEW_dee-qebi-amh.mp4)
  
- ### [Meeting](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_MEETING_dee-qebi-amh.mp4)
+ ### [Meeting](https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS/blob/main/Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_MEETING_dee-qebi-amh.mp4)
 
 
 ## Assignments
