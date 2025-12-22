@@ -94,15 +94,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 > **Abstract**: A unique platform that connects people worldwide and at the same time brings truck loads of information on almost anything you can imagine. Internet is the new age tool for marketers to optimize their businesses. There has been a huge growth in the internet usage in the last decade. The cost effective reach and huge growth combined makes Internet marketing a great avenue for any business. With the masses clinging on to the web, innovative companies have created businesses around it that were unheard of until the last decade.
 
-**Acknowledgement**:
-We would like to express our sincere gratitude to **Prof. S M Sirsath** for his valuable guidance and support. We also thank our **Principal** and the **Department of Computer Engineering** for providing the necessary facilities. We are grateful to our friends and families for their encouragement.
 
-**Project Members**:
-- Mr. Mayuresh Phansikar
-- Mr. Archit Konde
-- Mr. Amey Thakur
-- Ms. Mega Satish
-- Ms. Saakshi Deokar
 
 **Declaration & Signatures**:
 
