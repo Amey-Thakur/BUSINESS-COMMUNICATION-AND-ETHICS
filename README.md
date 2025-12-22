@@ -142,13 +142,13 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 <div align="center">
 
-| Name | Class & Roll No. | Student ID | Signature |
-|:---|:---:|:---:|:---:|
-| **Mayuresh Phansikar** | TE-Comps B-31 | TU3F1819102 | <img src="Activities/Sign_Mayuresh.png" height="50"/> |
-| **Archit Konde** | TE-Comps B-34 | TU3F1819107 | <img src="Activities/Sign_Archit.png" height="50"/> |
-| **Amey Thakur** | TE-Comps B-50 | TU3F1819127 | <img src="Activities/Sign_Amey.png" height="50"/> |
-| **Mega Satish** | TE-Comps B-58 | TU3F1819139 | <img src="Activities/Sign_Mega.png" height="50"/> |
-| **Saakshi Deokar** | TE-Comps B-59 | TU3F1819140 | <img src="Activities/Sign_Saakshi.png" height="50"/> |
+| # | Name | Class & Roll No. | Student ID | Signature |
+|:-:|:---|:---:|:---:|:---:|
+| 1 | **Mr. Mayuresh Phansikar** | TE-Comps B-31 | TU3F1819102 | <img src="Activities/Sign_Mayuresh.png" height="50"/> |
+| 2 | **Mr. Archit Konde** | TE-Comps B-34 | TU3F1819107 | <img src="Activities/Sign_Archit.png" height="50"/> |
+| 3 | **Mr. Amey Thakur** | TE-Comps B-50 | TU3F1819127 | <img src="Activities/Sign_Amey.png" height="50"/> |
+| 4 | **Ms. Mega Satish** | TE-Comps B-58 | TU3F1819139 | <img src="Activities/Sign_Mega.png" height="50"/> |
+| 5 | **Ms. Saakshi Deokar** | TE-Comps B-59 | TU3F1819140 | <img src="Activities/Sign_Saakshi.png" height="50"/> |
 
 </div>
 
