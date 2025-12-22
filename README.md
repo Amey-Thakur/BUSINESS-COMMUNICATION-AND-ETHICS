@@ -82,8 +82,31 @@ Practical activities and role-play simulations conducted for skills enhancement:
 |:-:|:---|:---|:---:|:-:|
 | 1 | **Internet Marketing** | Comprehensive Blackbook Report | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
 | 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
-| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | - | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
+| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
 | 4 | **Statement of Purpose** | Professional SOP writing | - | [📄 View](Activities/Amey_B-50_SOP.pdf) |
+
+<details>
+<summary><b>ℹ️ Meeting Details: Monthly Magazine</b></summary>
+
+**Topic**: Meeting Regarding Monthly Magazine  
+**Date**: December 15, 2020 · **Time**: 10:00 AM - 11:00 AM  
+**Objective**: Meeting will be focused on the previous month's activities.
+
+**Agenda**:
+1. Contents of The Magazine.
+2. Editorial Decisions Regarding The Same.
+3. Students' Achievements and Progress.
+4. Creative Ideas for Monthly Magazine.
+5. Interview of Faculty.
+
+**Members**:
+- Mr. Archit Konde
+- Mr. Mayuresh Phansikar
+- Mr. Amey Thakur
+- Ms. Mega Satish
+- Ms. Saakshi Deokar
+
+</details>
 
 ---
 
