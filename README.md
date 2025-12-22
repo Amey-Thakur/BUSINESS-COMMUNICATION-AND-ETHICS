@@ -81,6 +81,38 @@ Practical activities and role-play simulations conducted for skills enhancement:
 | # | Activity | Description | Date | Resource |
 |:-:|:---|:---|:---:|:-:|
 | 1 | **Internet Marketing** | Comprehensive Blackbook Report | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
+
+<details>
+<summary><b>ℹ️ Blackbook Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf"><b>View Document</b></a></summary>
+
+**Project Report**: Internet Marketing (Third Year / Sem V)  
+**Degree**: Bachelor Of Engineering (Computer Engineering)  
+**Guide**: Prof. S M Sirsath
+
+> **Abstract**: A unique platform that connects people worldwide and at the same time brings truck loads of information on almost anything you can imagine. Internet is the new age tool for marketers to optimize their businesses. There has been a huge growth in the internet usage in the last decade. The cost effective reach and huge growth combined makes Internet marketing a great avenue for any business. With the masses clinging on to the web, innovative companies have created businesses around it that were unheard of until the last decade.
+
+**Declaration & Signatures**:
+
+<div align="center">
+  <img src="Activities/BCE_Declaration_Signatures.png" alt="Declaration and Signatures" width="600"/>
+</div>
+
+**Table of Contents**:
+1. Evolution of Marketing
+2. Growth Of Internet Usage in India and the World
+3. Overview of Indian Users
+4. Understanding Internet Customers
+5. 7 P’s Of Internet Marketing
+6. Internet Marketing & Its Tools
+7. E-commerce & Online Shopping
+8. E-ticketing
+9. Blogging as a business
+10. Challenges to Internet Marketing
+11. Traditional Marketing v/s Internet Marketing
+12. Future Of Internet Marketing & Conclusion
+
+</details>
+
 | 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
 | 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
 | 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [📄 View](Activities/Amey_B-50_SOP.pdf) |
