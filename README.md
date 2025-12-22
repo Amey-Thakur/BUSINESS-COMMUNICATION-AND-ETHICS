@@ -278,7 +278,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her collaboration and support during the group activities and academic journey. Best wishes for her future endeavors.
+Grateful acknowledgment to [Mega Satish](https://github.com/msatmod), Archit Konde, Saakshi Deokar, and Mayuresh Phansikar for their collaboration, support, and shared efforts throughout group activities and the academic journey. The discussions, exchange of ideas, and teamwork with each of them contributed meaningfully to the learning experience and personal growth. Best wishes to all of them for continued success in their future endeavors.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Business Communication and Ethics.
 
