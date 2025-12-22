@@ -153,13 +153,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 **Topic**: STATEMENT OF PURPOSE  
 **Submission Date**: December 15, 2020
 
-</details>
-
-<details>
-<summary><b>ℹ️ Meeting Details: Monthly Magazine</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf"><b>View Document</b></a></summary>
-
-**Topic**: Meeting Regarding Monthly Magazine  
-**Date**: December 15, 2020 · **Time**: 10:00 AM - 11:00 AM  
+</details>  
 **Objective**: Meeting will be focused on the previous month's activities.
 
 **Agenda**:
