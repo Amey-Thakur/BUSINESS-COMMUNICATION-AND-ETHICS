@@ -127,6 +127,46 @@ Practical activities and role-play simulations conducted for skills enhancement:
 </details>
 
 <details>
+<summary><b>ℹ️ PPT Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf"><b>View Document</b></a></summary>
+
+**Presentation**: Internet Marketing (Third Year / Sem V)  
+**Degree**: Bachelor Of Engineering (Computer Engineering)  
+**Guide**: Prof. S M Sirsath
+
+**Presenters**:
+
+<div align="center">
+
+| # | Name | Class & Roll No. | Student ID | Signature |
+|:-:|:---|:---:|:---:|:---:|
+| 1 | **Mr. Mayuresh Phansikar** | TE-Comps B-31 | TU3F1819102 | <img src="Activities/Sign_Mayuresh.png" height="50"/> |
+| 2 | **Mr. Archit Konde** | TE-Comps B-34 | TU3F1819107 | <img src="Activities/Sign_Archit.png" height="50"/> |
+| 3 | **Mr. Amey Thakur** | TE-Comps B-50 | TU3F1819127 | <img src="Activities/Sign_Amey.png" height="50"/> |
+| 4 | **Ms. Mega Satish** | TE-Comps B-58 | TU3F1819139 | <img src="Activities/Sign_Mega.png" height="50"/> |
+| 5 | **Ms. Saakshi Deokar** | TE-Comps B-59 | TU3F1819140 | <img src="Activities/Sign_Saakshi.png" height="50"/> |
+
+</div>
+
+**Outline**:
+1. Introduction
+2. Branding
+3. Internet Marketing Research
+4. E-mail Marketing
+5. Promotions
+6. E-business Advertising
+   - 6.1 Banner Advertising
+   - 6.2 Buying and Selling Banner Advertising
+   - 6.3 Media-Rich Advertising
+   - 6.4 Wireless Advertising
+7. e-Business Public Relations
+8. Business-to-Business (B2B) Marketing on the Web
+9. Search Engines
+   - 9.1 META Tags
+   - 9.2 Search-Engine Registration
+
+</details>
+
+<details>
 <summary><b>ℹ️ Meeting Details: Monthly Magazine</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf"><b>View Document</b></a></summary>
 
 **Topic**: Meeting Regarding Monthly Magazine  
