@@ -97,7 +97,15 @@ Practical activities and role-play simulations conducted for skills enhancement:
 **Declaration & Signatures**:
 
 <div align="center">
-  <img src="Activities/BCE_Declaration_Signatures.png" alt="Declaration and Signatures" width="600"/>
+
+| Name | UID | Signature |
+|:---|:---:|:---:|
+| **Mayuresh Phansikar** | TU3F1819102 | <img src="Activities/Sign_Mayuresh.png" height="50"/> |
+| **Archit Konde** | TU3F1819107 | <img src="Activities/Sign_Archit.png" height="50"/> |
+| **Amey Thakur** | TU3F1819127 | <img src="Activities/Sign_Amey.png" height="50"/> |
+| **Mega Satish** | TU3F1819139 | <img src="Activities/Sign_Mega.png" height="50"/> |
+| **Saakshi Deokar** | TU3F1819140 | <img src="Activities/Sign_Saakshi.png" height="50"/> |
+
 </div>
 
 **Table of Contents**:
