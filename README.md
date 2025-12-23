@@ -83,7 +83,7 @@ BCE-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Date | Marks | Resource |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Quiz 1** | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 | [📄 View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
+| 1 | **Quiz 1** | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 | [View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
 
 ---
 
@@ -94,13 +94,13 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 | # | Activity | Description | Date | Resource |
 |:-:|:---|:---|:---:|:-:|
-| 1 | **Internet Marketing** | Comprehensive Blackbook Report | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
-| 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
-| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [📄 View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
-| 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [📄 View](Activities/Amey_B-50_SOP.pdf) |
+| 1 | **Internet Marketing** | Comprehensive Blackbook Report | December 15, 2020 | [View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) |
+| 2 | **Internet Marketing PPT** | Presentation Slides for the project | December 15, 2020 | [View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) |
+| 3 | **Meeting Simulation** | Mock Meeting Agenda and Minutes | December 15, 2020 | [View](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) |
+| 4 | **Statement of Purpose** | Professional SOP writing | December 15, 2020 | [View](Activities/Amey_B-50_SOP.pdf) |
 
 <details>
-<summary><b>ℹ️ Blackbook Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf"><b>View Document</b></a></summary>
+<summary><b>Blackbook Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf"><b>View Document</b></a></summary>
 
 **Project Report**: Internet Marketing (Third Year / Sem V)  
 **Degree**: Bachelor Of Engineering (Computer Engineering)  
@@ -141,7 +141,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 </details>
 
 <details>
-<summary><b>ℹ️ PPT Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf"><b>View Document</b></a></summary>
+<summary><b>PPT Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf"><b>View Document</b></a></summary>
 
 **Presentation**: Internet Marketing (Third Year / Sem V)  
 **Degree**: Bachelor Of Engineering (Computer Engineering)  
@@ -181,7 +181,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 </details>
 
 <details>
-<summary><b>ℹ️ Meeting Details: Monthly Magazine</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf"><b>View Document</b></a></summary>
+<summary><b>Meeting Details: Monthly Magazine</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf"><b>View Document</b></a></summary>
 
 **Topic**: Meeting Regarding Monthly Magazine  
 **Date**: December 15, 2020 · **Time**: 10:00 AM - 11:00 AM  
@@ -211,7 +211,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 </details>
 
 <details>
-<summary><b>ℹ️ SOP Details: Business Communication & Ethics</b> - <a href="Activities/Amey_B-50_SOP.pdf"><b>View Document</b></a></summary>
+<summary><b>SOP Details: Business Communication & Ethics</b> - <a href="Activities/Amey_B-50_SOP.pdf"><b>View Document</b></a></summary>
 
 **Course**: T.E. (Computer Engineering) · **Semester**: V · **Year**: 2020-2021  
 **Subject**: Business Communication & Ethics (CSL505)
