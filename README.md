@@ -253,10 +253,10 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Link |
 |:-:|:---|:---|:---:|:-:|
-| 1 | **Assignment 1** | Communication Barriers and Ethics | September 10, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Business Correspondence | September 10, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Report Writing and Proposals | September 20, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Career Skills and Technical Writing | December 13, 2020 | [📄 View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
+| 1 | **Assignment 1** | Communication Barriers and Ethics | September 10, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Business Correspondence | September 10, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Report Writing and Proposals | September 20, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Career Skills and Technical Writing | December 13, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
 
 ---
 
@@ -266,7 +266,7 @@ Academic assignments for comprehensive learning and practice:
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for BCE.
 
 > [!IMPORTANT]
