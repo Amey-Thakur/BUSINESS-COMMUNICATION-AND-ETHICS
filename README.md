@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Activities](#activities) &nbsp;·&nbsp; [Google Meet](#google-meet) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Activities](#activities) &nbsp;·&nbsp; [Google Meet](#google-meet) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -73,6 +73,20 @@ This collection includes **comprehensive reference materials** covering all majo
 | 1 | [Semester 5 Books](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
 
 ---
+
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+## Quizzes
+
+BCE-specific quizzes conducted during the course:
+
+| # | Quiz | Topics | Date | Marks | Resource |
+|:-:|:---|:---|:---:|:---:|:-:|
+| 1 | **Quiz 1** | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 | [📄 View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
+
+---
+
 
 ### Activities
 
@@ -246,18 +260,6 @@ Academic assignments for comprehensive learning and practice:
 
 ---
 
-<!-- =========================================================================================
-                                     QUIZZES SECTION
-     ========================================================================================= -->
-## Quizzes
-
-BCE-specific quizzes conducted during the course:
-
-| # | Quiz | Topics | Date | Marks | Resource |
-|:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Quiz 1** | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 | [📄 View](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) |
-
----
 
 <!-- =========================================================================================
                                      SYLLABUS SECTION
@@ -334,7 +336,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[↑ Back to Top](#business-communication-and-ethics)**
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Activities](#activities)** &nbsp;·&nbsp; **[Google Meet](#google-meet)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Activities](#activities)** &nbsp;·&nbsp; **[Google Meet](#google-meet)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
 </div>
 
