@@ -77,7 +77,7 @@ This collection includes **comprehensive reference materials** covering all majo
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-## Quizzes
+### Quizzes
 
 BCE-specific quizzes conducted during the course:
 
