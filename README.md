@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Activities](#activities) &nbsp;·&nbsp; [Google Meet](#google-meet) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Activities](#activities) &nbsp;·&nbsp; [Google Meet](#google-meet) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -73,6 +73,23 @@ This collection includes **comprehensive reference materials** covering all majo
 | 1 | [Semester 5 Books](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
 
 ---
+
+<!-- =========================================================================================
+                                     ASSIGNMENTS SECTION
+     ========================================================================================= -->
+### Assignments
+
+Academic assignments for comprehensive learning and practice:
+
+| # | Assignment | Description | Date | Link |
+|:-:|:---|:---|:---:|:-:|
+| 1 | **Assignment 1** | Communication Barriers and Ethics | September 10, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Business Correspondence | September 10, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Report Writing and Proposals | September 20, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Career Skills and Technical Writing | December 13, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
+
+---
+
 
 <!-- =========================================================================================
                                      QUIZZES SECTION
@@ -247,18 +264,6 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 ---
 
-### Assignments
-
-Academic assignments for comprehensive learning and practice:
-
-| # | Assignment | Description | Date | Link |
-|:-:|:---|:---|:---:|:-:|
-| 1 | **Assignment 1** | Communication Barriers and Ethics | September 10, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Business Correspondence | September 10, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Report Writing and Proposals | September 20, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Career Skills and Technical Writing | December 13, 2020 | [View](Assignments/Amey_B-50_BCE_Assignment-4.pdf) |
-
----
 
 
 <!-- =========================================================================================
@@ -336,7 +341,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[↑ Back to Top](#business-communication-and-ethics)**
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Activities](#activities)** &nbsp;·&nbsp; **[Google Meet](#google-meet)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Activities](#activities)** &nbsp;·&nbsp; **[Google Meet](#google-meet)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
 </div>
 
