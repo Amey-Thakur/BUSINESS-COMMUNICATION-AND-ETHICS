@@ -83,10 +83,10 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_BCE_Assignment-1.pdf) | Communication Barriers and Ethics | September 10, 2020 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_BCE_Assignment-2.pdf) | Business Correspondence | September 10, 2020 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_BCE_Assignment-3.pdf) | Report Writing and Proposals | September 20, 2020 |
-| 4 | [**Assignment 4**](Assignments/Amey_B-50_BCE_Assignment-4.pdf) | Career Skills and Technical Writing | December 13, 2020 |
+| 1 | [Assignment 1](Assignments/Amey_B-50_BCE_Assignment-1.pdf) | Communication Barriers and Ethics | September 10, 2020 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_BCE_Assignment-2.pdf) | Business Correspondence | September 10, 2020 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_BCE_Assignment-3.pdf) | Report Writing and Proposals | September 20, 2020 |
+| 4 | [Assignment 4](Assignments/Amey_B-50_BCE_Assignment-4.pdf) | Career Skills and Technical Writing | December 13, 2020 |
 
 ---
 
@@ -100,7 +100,7 @@ BCE-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Quiz 1**](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 |
+| 1 | [Quiz 1](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 |
 
 ---
 
@@ -111,10 +111,10 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 | # | Activity | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [**Internet Marketing**](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) | Comprehensive Blackbook Report | December 15, 2020 |
-| 2 | [**Internet Marketing PPT**](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) | Presentation Slides for the project | December 15, 2020 |
-| 3 | [**Meeting Simulation**](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) | Mock Meeting Agenda and Minutes | December 15, 2020 |
-| 4 | [**Statement of Purpose**](Activities/Amey_B-50_SOP.pdf) | Professional SOP writing | December 15, 2020 |
+| 1 | [Internet Marketing](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) | Comprehensive Blackbook Report | December 15, 2020 |
+| 2 | [Internet Marketing PPT](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) | Presentation Slides for the project | December 15, 2020 |
+| 3 | [Meeting Simulation](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) | Mock Meeting Agenda and Minutes | December 15, 2020 |
+| 4 | [Statement of Purpose](Activities/Amey_B-50_SOP.pdf) | Professional SOP writing | December 15, 2020 |
 
 <details>
 <summary><b>Blackbook Details: Internet Marketing</b> - <a href="Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf"><b>View Document</b></a></summary>
@@ -325,7 +325,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to [Mega Satish](https://github.com/msatmod), Archit Konde, Saakshi Deokar, and Mayuresh Phansikar for their collaboration, support, and shared efforts throughout group activities and the academic journey. The discussions, exchange of ideas, and teamwork with each of them contributed meaningfully to the learning experience and personal growth. Best wishes to all of them for continued success in their future endeavors.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)**, Archit Konde, Saakshi Deokar, and Mayuresh Phansikar for their collaboration, support, and shared efforts throughout group activities and the academic journey. The discussions, exchange of ideas, and teamwork with each of them contributed meaningfully to the learning experience and personal growth. Best wishes to all of them for continued success in their future endeavors.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Business Communication and Ethics.
 
@@ -339,9 +339,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#business-communication-and-ethics)**
+  [↑ Back to Top](#business-communication-and-ethics)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Activities](#activities)** &nbsp;·&nbsp; **[Google Meet](#google-meet)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Activities](#activities) &nbsp;·&nbsp; [Google Meet](#google-meet) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
