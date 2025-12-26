@@ -33,7 +33,7 @@ Business Communication and Ethics (CSL505) is a core subject in the Third Year (
 
 ### Course Topics
 
-The curriculum encompasses several key domains in Business Communication:
+The curriculum encompasses several key domains in Business Communication and Ethics:
 
 - **Communication Theory**: Verbal and non-verbal communication, barriers to communication.
 - **Business Writing**: Reports, proposals, emails, and statement of purpose (SOP).
