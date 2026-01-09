@@ -90,6 +90,10 @@ Academic assignments for comprehensive learning and practice:
 
 ---
 
+
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
 ### Quizzes
 
 BCE-specific quizzes conducted during the course:
@@ -147,7 +151,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 8. E-ticketing
 9. Blogging as a business
 10. Challenges to Internet Marketing
-11. Traditional Marketing vs. Internet Marketing
+11. Traditional Marketing v/s Internet Marketing
 12. Future Of Internet Marketing & Conclusion
 
 </details>
@@ -259,6 +263,10 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 ---
 
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
