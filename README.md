@@ -90,7 +90,6 @@ Academic assignments for comprehensive learning and practice:
 
 ---
 
-
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
@@ -260,7 +259,6 @@ Practical activities and role-play simulations conducted for skills enhancement:
 | 3 | **Meeting** | Formal business meeting simulation | [📹 Watch](Google%20Meet%20(dee-qebi-amh)/B-31%2C34%2C50%2C58%2C59_MEETING_dee-qebi-amh.mp4) |
 
 ---
-
 
 <!-- =========================================================================================
                                      SYLLABUS SECTION
