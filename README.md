@@ -153,7 +153,6 @@ Practical activities and role-play simulations conducted for skills enhancement:
 10. Challenges to Internet Marketing
 11. Traditional Marketing v/s Internet Marketing
 12. Future Of Internet Marketing & Conclusion
-
 </details>
 
 <details>
@@ -193,7 +192,6 @@ Practical activities and role-play simulations conducted for skills enhancement:
 9. Search Engines
    - 9.1 META Tags
    - 9.2 Search-Engine Registration
-
 </details>
 
 <details>
