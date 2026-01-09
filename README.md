@@ -90,10 +90,6 @@ Academic assignments for comprehensive learning and practice:
 
 ---
 
-
-<!-- =========================================================================================
-                                     QUIZZES SECTION
-     ========================================================================================= -->
 ### Quizzes
 
 BCE-specific quizzes conducted during the course:
@@ -103,7 +99,6 @@ BCE-specific quizzes conducted during the course:
 | 1 | [Quiz 1](Quizzes/BCE-QUIZ-1-Body%20Language%20and%20Presentation%20Skills-IAT-October%202020.pdf) | Body Language and Presentation Skills (IAT) | October 2020 | 14/20 |
 
 ---
-
 
 ### Activities
 
@@ -152,7 +147,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 8. E-ticketing
 9. Blogging as a business
 10. Challenges to Internet Marketing
-11. Traditional Marketing v/s Internet Marketing
+11. Traditional Marketing vs. Internet Marketing
 12. Future Of Internet Marketing & Conclusion
 
 </details>
@@ -264,11 +259,6 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 ---
 
-
-
-<!-- =========================================================================================
-                                     SYLLABUS SECTION
-     ========================================================================================= -->
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
@@ -321,7 +311,7 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Business Communication and Ethics.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
