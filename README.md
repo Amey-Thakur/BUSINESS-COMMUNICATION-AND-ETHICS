@@ -52,7 +52,7 @@ As a computer engineer, soft skills and ethical grounding are as critical as tec
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental soft skills.
-- **Academic Documentation**: To authentically document my learning journey through BCE.
+- **Academic Documentation**: To authentically document my learning journey through Business Communication and Ethics.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
