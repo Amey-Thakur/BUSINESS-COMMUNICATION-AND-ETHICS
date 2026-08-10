@@ -111,7 +111,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 | # | Activity | Description | Date |
 |:-:|:---|:---|:---:|
 | 1 | [Internet Marketing](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_BLACKBOOK.pdf) | Comprehensive Blackbook Report | December 15, 2020 |
-| 2 | [Internet Marketing PPT](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) | Presentation Slides for the project | December 15, 2020 |
+| 2 | [Internet Marketing PPT](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pdf) | Presentation Slides for the project, also as an editable [PowerPoint file](Activities/B-31%2C34%2C50%2C58%2C59_BCE_IM_PPT.pptx) | December 15, 2020 |
 | 3 | [Meeting Simulation](Activities/B-31%2C34%2C50%2C58%2C59_BCE_MOCK_MEETING.pdf) | Mock Meeting Agenda and Minutes | December 15, 2020 |
 | 4 | [Statement of Purpose](Activities/Amey_B-50_SOP.pdf) | Professional SOP writing | December 15, 2020 |
 
@@ -126,7 +126,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 
 
 
-**Declaration & Signatures**:
+**Declaration & Signatures**: [combined declaration sheet](Activities/BCE_Declaration_Signatures.png)
 
 <div align="center">
 
@@ -267,6 +267,7 @@ Practical activities and role-play simulations conducted for skills enhancement:
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> **[Third and Fourth Year Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for BCE.
 
 > [!IMPORTANT]
