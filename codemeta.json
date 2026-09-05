@@ -1,0 +1,76 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "BUSINESS-COMMUNICATION-AND-ETHICS",
+    "description": "CSL505: Business Communication & Ethics [BCE] | TE Semester V | Computer Engineering",
+    "identifier": "BUSINESS-COMMUNICATION-AND-ETHICS",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-28",
+    "dateReleased": "2021-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Third Year, Semester V",
+    "keywords": [
+        "Business Communication",
+        "Business Communication Skills",
+        "Computer Engineering",
+        "Computer Science",
+        "Corporate Social Responsibility",
+        "Engineering",
+        "Ethics",
+        "Group Discussions",
+        "Internet Marketing",
+        "Interview Preparation",
+        "Professional Ethics",
+        "Soft Skills",
+        "SOP Templates",
+        "Technical Writing",
+        "University Of Mumbai",
+        "CSL505",
+        "BCE",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "TE Semester V",
+        "Semester V",
+        "Assignments",
+        "Reference Books",
+        "Syllabus",
+        "CBCGS",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

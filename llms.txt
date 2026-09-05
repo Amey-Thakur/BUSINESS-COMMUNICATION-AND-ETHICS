@@ -1,0 +1,37 @@
+# Business Communication and Ethics
+
+> CSL505: Business Communication & Ethics [BCE] | TE Semester V | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Course code: CSL505
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Activities, 11 files
+- Assignments, 4 files
+- Google Meet (dee-qebi-amh), 3 files
+- Quizzes, 1 file
+- Reference Books, 1 file
+- Syllabus, 2 files
+
+## Subject terms
+
+business-communication, business-communication-skills,
+computer-engineering, computer-science, corporate-social-responsibility,
+engineering, ethics, group-discussions, internet-marketing,
+interview-preparation, professional-ethics, soft-skills, sop-templates,
+technical-writing, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/BUSINESS-COMMUNICATION-AND-ETHICS
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
